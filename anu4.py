@@ -1,0 +1,5 @@
+a=input("what is your name?")
+print ("my name is : " , a)
+b=input("your title  ? ")
+print ("my title is? "  ,b)
+print ("hello " , a +" "+ b)
